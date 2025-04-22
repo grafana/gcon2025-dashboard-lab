@@ -9,6 +9,6 @@ This workshop was lead by:
 
 ## Instructions
 
-Just download the csv file from this repo and save it on your machine.
+Just download the csv file name **gh-csv-data.csv** from this repo and save it on your machine.
 
-Then follow along for the instructions in the Hands-on Lab
+Then follow along for the instructions that will be provided in the Hands-on Lab.
