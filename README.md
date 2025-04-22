@@ -6,3 +6,9 @@ This repository contains the labs hands-on data for the **Best practices to leve
 This workshop was lead by:
 - Syed Usman Ahmad ([LinkedIn](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/), [GitHub](https://github.com/usmangt), [YouTube](https://www.youtube.com/@freelinuxtutorials))
 - Leon Sorokin ([GitHub](https://github.com/leeoniya/))
+
+## Instructions
+
+Just download the csv file from this repo and save it on your machine.
+
+Then follow along for the instructions in the Hands-on Lab
