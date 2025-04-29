@@ -7,8 +7,16 @@ This workshop was lead by:
 - Syed Usman Ahmad ([LinkedIn](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/), [GitHub](https://github.com/usmangt), [YouTube](https://www.youtube.com/@freelinuxtutorials))
 - Leon Sorokin ([GitHub](https://github.com/leeoniya/))
 
-## Instructions
+## How to use the CSV file
 
 Just download the csv file name **gh-csv-data.csv** from this repo and save it on your machine.
 
 Then follow along for the instructions that will be provided in the Hands-on Lab.
+
+
+### Instructions for the Data links Exercise:
+
+Use the following URL to paste in the URL text box when doing the exercise for the data links:
+```
+https://github.com/grafana/grafana/issues/
+```
