@@ -43,4 +43,4 @@ https://github.com/grafana/grafana/issues/
 ## Community Resources
 - Join [Grafana Community Slack](https://slack.grafana.com/)
 - [Grafana Community Forums](https://community.grafana.com/)
-- Report issues, feature-requests, bugs at the [Official Grafana Repository](https://github.com/orgs/grafana/grafana)
+- Report issues, feature-requests, bugs at the [Official Grafana Repository](https://github.com/grafana/grafana)
