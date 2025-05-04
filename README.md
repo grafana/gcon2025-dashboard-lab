@@ -1,4 +1,5 @@
 # GrafanaCON 2025
+
 ## Best practices to level up your Grafana dashboarding skills
 
 This repository contains the labs hands-on data for the **Best practices to level up your Grafana dashboarding skills** Hands-on Lab
@@ -12,7 +13,6 @@ This workshop was lead by:
 Just download the csv file name **gh-csv-data.csv** from this repo and save it on your machine.
 
 Then follow along for the instructions that will be provided in the Hands-on Lab.
-
 
 ### Instructions for the Data links Exercise:
 
@@ -41,7 +41,7 @@ https://github.com/grafana/grafana/issues/
 - [Golden Grot Awards](https://grafana.com/golden-grot-awards/)
 
 ## Community Resources
-- Join Grafana Community Slack
-- Grafana Community Forums
-- Report issues, feature-requests, bugs at the Official Grafana Repository
+- Join [Grafana Community Slack](https://slack.grafana.com/)
+- [Grafana Community Forums](https://community.grafana.com/)
+- Report issues, feature-requests, bugs at the [Official Grafana Repository](https://github.com/orgs/grafana/grafana)
 
