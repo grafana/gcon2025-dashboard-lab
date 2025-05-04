@@ -20,3 +20,26 @@ Use the following URL to paste in the URL text box when doing the exercise for t
 ```
 https://github.com/grafana/grafana/issues/
 ```
+## Useful Links
+
+- Download Grafana
+- Get free-forever Grafana Cloud Account
+- Learn about Grafana
+- Getting Started with Grafana Play
+- Learn about Grafana Transformations
+- Dashboard Variables
+- Getting started wtih TestDB data source
+- Import/Export Dashboard
+- DataViz
+- Panels
+- Overrides
+- Data links
+- Data sources
+- Dashboard Marketplace
+- Grot Awards
+
+## Community Resources
+- Join Grafana Community Slack
+- Grafana Community Forums
+- Report issues, feature-requests, bugs at the Official Grafana Repository
+
