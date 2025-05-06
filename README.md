@@ -24,10 +24,6 @@ SELECT genre, COUNT(*) FROM movies GROUP BY genre ORDER BY COUNT(*) DESC;
 ```
 
 ---
-// Panel flow & Overrides
-// Legend toggle, color change
-// Table column width
----
 
 **Title field link**
 
@@ -50,6 +46,7 @@ https://www.youtube.com/results?search_query=${__value}+${__data.fields.year}
 
 - https://play.grafana.org/d/ddvzyhqvzw83kf/dashboard-variables
 - https://play.grafana.org/d/ddvpgdhiwjvuod/postgresql-overview
+
 
 ## How to use the CSV file
 
