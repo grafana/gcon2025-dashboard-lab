@@ -8,6 +8,49 @@ This workshop was lead by:
 - **Syed Usman Ahmad ([LinkedIn](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/), [GitHub](https://github.com/usmangt), [YouTube](https://www.youtube.com/@freelinuxtutorials))**
 - **Leon Sorokin ([GitHub](https://github.com/leeoniya/))**
 
+## Movies Dashboard Queries
+
+```sql
+-- Summary
+SELECT title, year, genre, duration, country FROM movies LIMIT 500;
+-- Count stat panel
+SELECT COUNT(*) FROM movies;
+-- Average duration stat panel
+SELECT AVG(duration) FROM movies;
+-- Avg duration by country bar chart
+SELECT country, AVG(duration) FROM movies WHERE country NOT LIKE '%,%' AND length(country) > 0 GROUP BY country ORDER BY AVG(duration);
+-- Count by genre
+SELECT genre, COUNT(*) FROM movies GROUP BY genre ORDER BY COUNT(*) DESC;
+```
+
+---
+// Panel flow & Overrides
+// Legend toggle, color change
+// Table column width
+---
+
+**Title field link**
+
+```
+https://www.youtube.com/results?search_query=${__value}+${__data.fields.year}
+```
+
+**Genre field link**
+
+```
+/d/${__dashboard.uid}/${__dashboard}/?var-genre=${__value}
+```
+
+**Variable and data link university :D**
+
+- https://grafana.com/docs/grafana/latest/panels-visualizations/configure-data-links/
+- https://grafana.com/docs/grafana/latest/dashboards/variables/variable-syntax/
+
+**Advanced Play Demos**
+
+- https://play.grafana.org/d/ddvzyhqvzw83kf/dashboard-variables
+- https://play.grafana.org/d/ddvpgdhiwjvuod/postgresql-overview
+
 ## How to use the CSV file
 
 Just download the csv file name **gh-csv-data.csv** from this repo and save it on your machine.
